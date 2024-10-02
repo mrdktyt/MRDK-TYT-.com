@@ -1,0 +1,97 @@
+ <link rel="shortcut icon" "type""image/x-icon" href="F:\tumbnail\next.jpg"/>
+<body bgcolor="      ">
+<body background="   ">
+ <ul type="circle" >
+	     <li>boy</li>
+		 <li>progrmmer</li>
+		 <li>youtuber</li>
+		 <li>student</li>
+		 <li>brother</li>
+		 <li>bowler</li>
+	     <li>young</li>
+	 </ul>
+  <a href="https://www.youtube.com/@MRDKTYT"target="blank">ITS MY YOUTUBE CHANNEL<a>
+<link rel="stylesheet" type="text/css" href="styles.css" />
+table{
+	background-color:skyblue;
+	width:70%;
+	height:50%;
+	font-family:arial;
+	
+	
+}
+
+table tr th {
+	background-color:lime;
+	
+	
+	
+	
+	
+}
+.saw:hover{
+	background:linear-gradient(white,black,lime);
+	border:6px solid white;
+	font-size:100px;
+	border-radius:0 25px;
+	transition:2s;
+}
+*{
+	padding:
+	margin:
+	
+	
+	
+	
+	
+	
+}
+<div class="saw">      </div>
+div class="mark"> <marquee scrollamount="15 behavior="scroll" loop="25"  onmouseover="stop()" onmouseout="start()" > MRDK IS BEST YOUTUBER CAN YOU SUBSCRIBE IT GO AND DO IT YOURSELF AND DO NOT WORRY ABOUT TOMORROW LET CELLBRATE TODAY
+  </marquee></div><hr>
+
+
+
+
+ <form> 
+      FIRST NAME<br>
+	<input/type="text" name="f" placeholder="FIRST NAME" ><br>
+	 LAST NAME<br>
+	<input/type="text" name="f"placeholder="LAST NAME"><BR>
+	   EMAIL<br>
+    <input/type="EMAIL" name="f"placeholder="EMAIL"><br>
+	PASSWORD<br>
+	<input/type="PASSWORD" name="f"placeholder="PASSWORD"><br>
+	DATE <br>
+	<input/type="DATE" name="f"placeholder="DATE"><br>
+  
+  
+    GENDER<BR>
+	<input/type="radio" name="gender" value="mail"> Mail
+    <input/type="radio" name="gender" value="femail"> Femail
+<BR>
+    NUMBER<BR>
+    <input/type="number" name=""
+
+
+
+
+
+
+     </FORM>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

@@ -1,0 +1,67 @@
+table{
+	background-color:skyblue;
+	width:70%;
+	height:50%;
+	font-family:arial;
+	
+	
+}
+
+table tr th {
+	background-color:lime;
+}
+.First{
+	background-color:yellow;
+    color:red;                 
+					  
+					  
+					  
+					  
+					  
+}
+*{
+	padding:
+	margin:
+	
+	
+	
+	
+	
+	
+}
+.mark{
+	background-color:pink;	
+}
+.one{
+	background-color:black;
+	
+	
+	
+	
+}
+.one:hover{
+	background-color:white;
+	
+	
+	
+	
+	
+	
+	
+}
+.saw{
+	background:linear-gradient(skyblue,green);
+	WIDTH:100%;
+	height:100px;
+font-size:50px;
+	border:6px solid black;
+	border-radius:25px 0;
+	
+}
+.saw:hover{
+	background:linear-gradient(white,black,lime);
+	border:6px solid white;
+	font-size:100px;
+	border-radius:0 25px;
+	transition:2s;
+}
